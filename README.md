@@ -1,10 +1,10 @@
 # PCI DSS Gap Assessment – Ikigai E-commerce Services Limited
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or open-sourced.*
+*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or sourced from open-source resources.*
 
 ---
 
-Led a PCI DSS gap [assessment](https://drive.google.com/drive/folders/1BfAAtvKAkp5tkcBksxKAHdXZVYGDtdQS?usp=sharing) for an e-commerce merchant processing approximately 50,000 annual transactions. The assessment evaluated access controls and logging practices against **PCI DSS v4.0.1 Requirements 8 and 10** to determine readiness for SAQ A submission and validate the fully outsourced payment model.
+Supported a PCI DSS gap [assessment](https://drive.google.com/drive/folders/1BfAAtvKAkp5tkcBksxKAHdXZVYGDtdQS?usp=sharing) for an e-commerce merchant processing approximately 50,000 annual transactions. The assessment evaluated access controls and logging practices against **PCI DSS v4.0.1 Requirements 8 and 10** to determine readiness for SAQ A submission and validate the fully outsourced payment model.
 
 ---
 
