@@ -1,10 +1,12 @@
 # PCI DSS Gap Assessment – Ikigai E-commerce Services Limited
 
-*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or sourced from open-source resources.*
+*This project reflects the type of work I support in real-world engagements. The documentation uses synthetic data—no client information is reproduced—and the templates are either self-developed or sourced from open-source resources.*
 
 ---
 
-Supported a PCI DSS gap [assessment](https://drive.google.com/drive/folders/1BfAAtvKAkp5tkcBksxKAHdXZVYGDtdQS?usp=sharing) for an e-commerce merchant processing approximately 50,000 annual transactions. The assessment evaluated access controls and logging practices against **PCI DSS v4.0.1 Requirements 8 and 10** to determine readiness for SAQ A submission and validate the fully outsourced payment model.
+Supported a PCI DSS gap [assessment](https://drive.google.com/drive/folders/1BfAAtvKAkp5tkcBksxKAHdXZVYGDtdQS?usp=sharing) for an e-commerce merchant processing approximately 50,000 annual transactions through a fully outsourced payment model via Paystack. Because customers are redirected to Paystack's PCI‑validated environment, Ikigai's internal systems never store, process, or transmit cardholder data—qualifying them for SAQ A.
+
+Accordingly, this assessment focused exclusively on the two SAQ A requirements that apply to Ikigai's corporate systems: *Requirement 8 (Access Control) and Requirement 10 (Logging & Monitoring)* —evaluating these controls against PCI DSS v4.0.1 to determine readiness for SAQ A submission and validate the outsourced payment model.
 
 ---
 
