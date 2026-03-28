@@ -6,7 +6,9 @@
 
 Supported a PCI DSS gap [assessment](https://drive.google.com/drive/folders/1BfAAtvKAkp5tkcBksxKAHdXZVYGDtdQS?usp=sharing) for an e-commerce merchant processing approximately 50,000 annual transactions through a fully outsourced payment model via Paystack. Because customers are redirected to Paystack's PCI‑validated environment, Ikigai's internal systems never store, process, or transmit cardholder data, qualifying them for SAQ A.
 
-Accordingly, this assessment focused exclusively on the two SAQ A requirements that apply to Ikigai's corporate systems: *Requirement 8 (Access Control) and Requirement 10 (Logging & Monitoring)*, evaluating these controls against PCI DSS v4.0.1 to determine readiness for SAQ A submission and validate the outsourced payment model.
+Accordingly, this assessment focused exclusively on the two SAQ A requirements applicable to Ikigai’s corporate systems: *Requirement 8 (Access Control) and Requirement 10 (Logging & Monitoring)*, as platforms such as Google Workspace and the admin panel support e-commerce operations.
+
+The review evaluated these controls against PCI DSS v4.0.1 to assess readiness for SAQ A submission and validate the effectiveness of the outsourced payment model.
 
 ---
 
